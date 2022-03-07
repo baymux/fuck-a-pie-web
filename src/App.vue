@@ -4,6 +4,7 @@
       <router-view/>
     </div>
   </a-config-provider>
+
 </template>
 
 <script>
